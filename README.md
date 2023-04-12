@@ -10,7 +10,7 @@
 
 Este desafio foi realizado através da plataforma de cursos online <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a> - DIO</strong>.
 
-O objetivo principal foi colocar em prática ferramentas da orietação a objetos da Lingaugem Java: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
+O objetivo principal foi colocar em prática ferramentas da orientação a objetos da Linguagem Java: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
 
 ## O que aprendi com o desafio:
 
